@@ -1,4 +1,4 @@
-program RevelaSenhya;
+program RevelaSenha;
 
 uses
   Vcl.Forms,
